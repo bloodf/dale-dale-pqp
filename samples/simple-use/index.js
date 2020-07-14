@@ -1,4 +1,4 @@
-const faustaoTaPegandoFogo = require('faustao-ta-pegando-fogo');
+const daleDalePqp = require('dale-dale-pqp');
 
-console.log("Ta pegando fogo bicho!");
-faustaoTaPegandoFogo();
+console.log("É Quinta-Feira! Ta chegando o FDS, bora dar o GAS! DALE-DALE PQP!");
+daleDalePqp();

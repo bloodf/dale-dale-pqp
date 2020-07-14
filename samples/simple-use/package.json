@@ -1,7 +1,7 @@
 {
-  "name": "simple-pegando-fogo",
+  "name": "simple-dale-dale-pqp",
   "version": "1.0.1",
-  "description": "Ta pegando fogo bicho!",
+  "description": "Dale Dale PQP",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bloodf/faustao-ta-pegando-fogo"
+    "url": "https://github.com/bloodf/dale-dale-pqp"
 },
   "author": "Heitor Ramon <heitor.ramon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "faustao-ta-pegando-fogo": "^1.0.1"
+    "dale-dale-pqp": "^1.0.1"
   }
 }
