@@ -1,0 +1,22 @@
+{
+  "name": "dale-dale-pqp",
+  "version": "1.0.1",
+  "description": "Ta pegando fogo bicho!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bloodf/dale-dale-pqp.git"
+  },
+  "author": "Heitor Ramon <heitor.ramon@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "daledale": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bloodf/dale-dale-pqp.git/issues"
+  },
+  "homepage": "https://github.com/bloodf/dale-dale-pqp.git#readme"
+}
